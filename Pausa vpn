@@ -6,7 +6,7 @@
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
+  "cancelButtonText": "Cancelar",
   "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#1E88E5",
   "cancelButtonGradientEndColor": "#64B5F6",
